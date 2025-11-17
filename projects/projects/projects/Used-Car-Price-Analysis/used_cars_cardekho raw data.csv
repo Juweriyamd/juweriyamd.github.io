@@ -1,0 +1,301 @@
+Car Name,Brand,Location,Price (INR),Fuel Type,Transmission,Km Driven,Manufacture Year
+2023 Audi Q3Premium Plus BSVI,Audi,Maharashtra,3800000,Petrol,Automatic,18000,2023
+2023 Maruti Alto K10VXI,Maruti,Maharashtra,430000,Petrol,Manual,6200,2023
+2022 Hyundai CretaEX BSVI,Hyundai,Maharashtra,1050000,Petrol,Manual,58000,2022
+2016 Maruti ErtigaBSIV VXI,Maruti,Maharashtra,640000,Petrol,Manual,26640,2016
+2023 Hyundai ExterSX CNG 4 Cylinder,Hyundai,Maharashtra,890000,Cng,Manual,30000,2023
+2020 Kia SeltosHTK Plus AT D,Kia,Maharashtra,1231000,Diesel,Automatic,77000,2020
+2022 Renault KigerRXT AMT,Renault,Maharashtra,600000,Petrol,Automatic,10067,2022
+2022 Kia CarensPremium BSVI,Kia,Maharashtra,1200000,Petrol,Manual,37000,2022
+2024 Maruti CelerioZXI,Maruti,Maharashtra,595000,Petrol,Manual,9000,2024
+2024 Mercedes-Benz GLE300d 4Matic,Mercedes,Maharashtra,9700000,Diesel,Automatic,4000,2024
+2022 Renault KigerRXT,Renault,Maharashtra,650000,Petrol,Manual,27000,2022
+2018 Audi A430 TFSI Premium Plus,Audi,Maharashtra,2675000,Petrol,Automatic,9000,2018
+2024 MG Hector PlusSharp Pro CVT 7 Str,MG,Maharashtra,2065000,Petrol,Automatic,7000,2024
+2022 Kia SeltosHTK Plus G,Kia,Maharashtra,1325000,Petrol,Manual,15000,2022
+2023 Maruti Wagon RLXI CNG,Maruti,Maharashtra,590000,Cng,Manual,21000,2023
+2021 BMW 2 Series220i M Sport BSVI,BMW,Maharashtra,2950000,Petrol,Automatic,34000,2021
+2024 Kia CarensX-Line Diesel AT 6 STR,Kia,Maharashtra,1850000,Diesel,Automatic,30000,2024
+2022 Kia SeltosGTX Plus,Kia,Maharashtra,1495000,Petrol,Manual,15552,2022
+2023 Kia CarensPremium BSVI,Kia,Maharashtra,1175000,Petrol,Manual,11000,2023
+2023 Mercedes-Benz GLS400d 4MATIC BSVI,Mercedes,Maharashtra,11700000,Diesel,Automatic,24900,2023
+2022 Land Rover Defender2.0 110 HSE,Land,Uttar Pradesh,9800000,Petrol,Automatic,4600,2022
+2023 Maruti FRONXSigma,Maruti,Uttar Pradesh,690000,Petrol,Manual,32000,2023
+2024 Maruti BrezzaLxi,Maruti,Uttar Pradesh,900000,Petrol,Manual,10500,2024
+2025 Maruti FRONXDelta,Maruti,Uttar Pradesh,895000,Petrol,Manual,1100,2025
+2024 Jaguar F-Pace2.0 R-Dynamic S Diesel,Jaguar,Uttar Pradesh,7000000,Diesel,Automatic,30000,2024
+2023 Citroen C5 AircrossShine Dual Tone,Citroen,Uttar Pradesh,849000,Diesel,Automatic,17944,2023
+2022 Maruti BalenoSigma,Maruti,Uttar Pradesh,575000,Petrol,Manual,5000,2022
+2024 Land Rover Defender2.0 l Petrol 110 X-Dynamic HSE,Land,Delhi,11800000,Petrol,Automatic,7900,2024
+2024 Land Rover Defender2.0 110 HSE,Land,Delhi,8400000,Petrol,Automatic,8000,2024
+2024 BMW XMxDrive,BMW,Uttar Pradesh,21000000,Petrol,Automatic,13734,2024
+2023 BMW 3 Series Long Wheelbase320Ld M Sport GL,BMW,Uttar Pradesh,6500000,Diesel,Automatic,1800,2023
+2023 Hyundai ExterS AMT,Hyundai,Uttar Pradesh,835000,Petrol,Automatic,12493,2023
+2022 Volkswagen Taigun1.0 TSI Topline AT BSVI,Volkswagen,Uttar Pradesh,1200000,Petrol,Automatic,10000,2022
+2022 Renault KigerRXZ AMT,Renault,Uttar Pradesh,599000,Petrol,Automatic,45959,2022
+2024 Kia SonetHTK Plus Diesel,Kia,Uttar Pradesh,1080000,Diesel,Manual,17735,2024
+2024 Toyota TaisorG Turbo,Toyota,Uttar Pradesh,831000,Petrol,Manual,19113,2024
+2023 Audi Q3Premium Plus BSVI,Audi,Uttar Pradesh,3800000,Petrol,Automatic,18000,2023
+2022 Tata PunchAdventure,Tata,Delhi,590000,Petrol,Manual,55000,2022
+2023 Hyundai VenueS Opt BSVI,Hyundai,Uttar Pradesh,799000,Petrol,Manual,13000,2023
+2023 Renault KWID1.0 CLIMBER AMT,Renault,Uttar Pradesh,550000,Petrol,Automatic,12048,2023
+2023 Mahindra XUV400 EVEL Fast Charger,Mahindra,Karnataka,1550000,Electric,Automatic,10000,2023
+2023 Renault KWID1.0 CLIMBER AMT,Renault,Karnataka,550000,Petrol,Automatic,12048,2023
+2016 Hyundai i10Magna 1.1L,Hyundai,Karnataka,327000,Petrol,Manual,22376,2016
+2016 Maruti CelerioVXI Optional,Maruti,Karnataka,375000,Petrol,Manual,49867,2016
+2023 Volvo XC40 RechargeP8 AWD,Volvo,Karnataka,5300000,Electric,Automatic,4500,2023
+2016 Maruti Wagon RAMT VXI,Maruti,Karnataka,395000,Petrol,Automatic,41836,2016
+2012 Hyundai Verna1.6 SX VTVT,Hyundai,Karnataka,363000,Petrol,Manual,49512,2012
+2024 Mahindra Thar ROXXAX7L 4WD Diesel AT,Mahindra,Karnataka,2750000,Diesel,Automatic,16000,2024
+2021 Kia SeltosHTX Diesel,Kia,Karnataka,1495000,Diesel,Manual,60000,2021
+2017 Hyundai Creta1.6 VTVT E Plus,Hyundai,Karnataka,775000,Petrol,Manual,59956,2017
+2017 Hyundai i20Asta 1.2,Hyundai,Karnataka,650000,Petrol,Manual,58000,2017
+2023 Mahindra TharLX Hard Top Diesel,Mahindra,Karnataka,1750000,Diesel,Manual,16000,2023
+2012 BMW X1sDrive20d,BMW,Karnataka,690000,Diesel,Automatic,100000,2012
+2020 Hyundai Grand i101.2 Kappa Sportz BSIV,Hyundai,Karnataka,592000,Petrol,Manual,33302,2020
+2019 Mahindra XUV300W8 Option Diesel BSIV,Mahindra,Karnataka,1000000,Diesel,Manual,39000,2019
+2020 Hyundai AuraSX Plus AMT Diesel,Hyundai,Karnataka,578000,Diesel,Automatic,106173,2020
+2020 Kia SeltosGTX Plus DCT,Kia,Karnataka,1400000,Petrol,Automatic,80000,2020
+2020 Kia SeltosHTX IVT G,Kia,Karnataka,1283000,Petrol,Automatic,47030,2020
+2021 Hyundai CretaE BSVI,Hyundai,Karnataka,1175000,Petrol,Manual,22000,2021
+2022 Hyundai CretaEX BSVI,Hyundai,Karnataka,1145000,Petrol,Manual,16667,2022
+2023 Honda ElevateZX CVT,Honda,Gujarat,1575000,Petrol,Automatic,30000,2023
+2017 Maruti SwiftVXI,Maruti,Gujarat,435000,Petrol,Manual,58000,2017
+2023 Hyundai ExterS Opt,Hyundai,Gujarat,720000,Petrol,Manual,61000,2023
+2021 Maruti BalenoSigma,Maruti,Gujarat,525000,Petrol,Manual,32000,2021
+2021 MG Hector PlusSharp CVT,MG,Gujarat,1200000,Petrol,Automatic,40000,2021
+2022 Hyundai CretaEX BSVI,Hyundai,Gujarat,999000,Petrol,Manual,64000,2022
+2023 Hyundai VenueS Opt 2023-2025,Hyundai,Gujarat,899000,Petrol,Manual,4200,2023
+2019 Maruti Baleno1.2 Zeta,Maruti,Gujarat,575000,Petrol,Manual,40000,2019
+2016 Honda Jazz1.2 E i VTEC,Honda,Gujarat,200000,Petrol,Manual,150000,2016
+2021 Maruti Vitara BrezzaLXI,Maruti,Gujarat,699000,Petrol,Manual,78000,2021
+2021 Maruti BalenoSigma,Maruti,Gujarat,535000,Petrol,Manual,32500,2021
+2012 Maruti Swift DzireVXI,Maruti,Gujarat,315000,Petrol,Manual,71000,2012
+2020 Kia SeltosHTX IVT G,Kia,Gujarat,1150000,Petrol,Automatic,120000,2020
+2017 Maruti DzireZXI Plus,Maruti,Gujarat,571000,Petrol,Manual,81925,2017
+2019 Jeep Compass1.4 Limited,Jeep,Gujarat,890000,Petrol,Automatic,42044,2019
+2019 Honda AmazeS CVT Petrol BSIV,Honda,Gujarat,590000,Petrol,Automatic,66000,2019
+2024 Tata TiagoXT,Tata,Gujarat,600000,Petrol,Manual,13000,2024
+2023 MG AstorSmart MT,MG,Gujarat,1175000,Petrol,Manual,24471,2023
+2020 Kia SonetHTX Turbo iMT,Kia,Gujarat,748000,Petrol,Automatic,58146,2020
+2023 Skoda Kushaq1.0 TSI Style AT,Skoda,Gujarat,1450000,Petrol,Automatic,14800,2023
+2024 Jaguar F-Pace2.0 R-Dynamic S Diesel,Jaguar,Rajasthan,7000000,Diesel,Automatic,30000,2024
+2023 Hyundai CretaE,Hyundai,Rajasthan,1050000,Petrol,Manual,21942,2023
+2021 Maruti IgnisSigma BSVI,Maruti,Rajasthan,580000,Petrol,Manual,31278,2021
+2023 Kia SeltosGTX Plus Diesel AT,Kia,Rajasthan,1775000,Diesel,Automatic,17000,2023
+2024 Volkswagen VirtusHighline,Volkswagen,Rajasthan,1200000,Petrol,Manual,3400,2024
+2022 Renault KigerRXE,Renault,Rajasthan,748000,Petrol,Manual,18000,2022
+2019 Maruti Swift DzireVXI 1.2,Maruti,Rajasthan,675000,Petrol,Manual,72869,2019
+2022 Mercedes-Benz AMG GLC 434MATIC Coupe,Mercedes,Rajasthan,8200000,Petrol,Automatic,24000,2022
+2023 BMW 3 Series Long Wheelbase330Li M Sport GL,BMW,Rajasthan,4800000,Petrol,Automatic,40000,2023
+2010 Hyundai Santro XingGLS,Hyundai,Rajasthan,170000,Petrol,Manual,112323,2010
+2023 Hyundai ExterSX Opt Connect AMT,Hyundai,Rajasthan,850000,Petrol,Automatic,26565,2023
+2021 Kia SonetGTX Plus Turbo DCT,Kia,Rajasthan,1010000,Petrol,Automatic,41563,2021
+2019 Hyundai VenueS Turbo BSIV,Hyundai,Rajasthan,620000,Petrol,Manual,60000,2019
+2019 Hyundai SantroSportz BSIV,Hyundai,Rajasthan,398000,Petrol,Manual,25106,2019
+2021 Land Rover Range Rover Evoque2.0 R-Dynamic SE diesel 2020-2021,Land,Rajasthan,5700000,Diesel,Automatic,40000,2021
+2022 Skoda Kushaq1.0 TSI Active BSVI,Skoda,Rajasthan,950000,Petrol,Manual,36000,2022
+2019 Hyundai Creta1.6 SX Automatic,Hyundai,Rajasthan,1150000,Petrol,Automatic,50000,2019
+2020 BMW X1sDrive20i SportX,BMW,Rajasthan,3100000,Petrol,Automatic,58000,2020
+2023 Nissan MagniteKuro MT,Nissan,Rajasthan,675000,Petrol,Manual,35000,2023
+2024 BMW 3 Series Long Wheelbase330Li M Sport Pro GL,BMW,Rajasthan,5500000,Petrol,Automatic,18000,2024
+2022 Land Rover Defender2.0 110 HSE,Land,Madhya Pradesh,9800000,Petrol,Automatic,4600,2022
+2023 Maruti FRONXSigma,Maruti,Madhya Pradesh,690000,Petrol,Manual,32000,2023
+2024 Maruti BrezzaLxi,Maruti,Madhya Pradesh,900000,Petrol,Manual,10500,2024
+2025 Maruti FRONXDelta,Maruti,Madhya Pradesh,895000,Petrol,Manual,1100,2025
+2024 Jaguar F-Pace2.0 R-Dynamic S Diesel,Jaguar,Madhya Pradesh,7000000,Diesel,Automatic,30000,2024
+2023 Citroen C5 AircrossShine Dual Tone,Citroen,Madhya Pradesh,849000,Diesel,Automatic,17944,2023
+2022 Maruti BalenoSigma,Maruti,Madhya Pradesh,575000,Petrol,Manual,5000,2022
+2024 Land Rover Defender2.0 l Petrol 110 X-Dynamic HSE,Land,Delhi,11800000,Petrol,Automatic,7900,2024
+2024 Land Rover Defender2.0 110 HSE,Land,Delhi,8400000,Petrol,Automatic,8000,2024
+2024 BMW XMxDrive,BMW,Madhya Pradesh,21000000,Petrol,Automatic,13734,2024
+2023 BMW 3 Series Long Wheelbase320Ld M Sport GL,BMW,Madhya Pradesh,6500000,Diesel,Automatic,1800,2023
+2023 Hyundai ExterS AMT,Hyundai,Madhya Pradesh,835000,Petrol,Automatic,12493,2023
+2022 Volkswagen Taigun1.0 TSI Topline AT BSVI,Volkswagen,Madhya Pradesh,1200000,Petrol,Automatic,10000,2022
+2022 Renault KigerRXZ AMT,Renault,Madhya Pradesh,599000,Petrol,Automatic,45959,2022
+2024 Kia SonetHTK Plus Diesel,Kia,Madhya Pradesh,1080000,Diesel,Manual,17735,2024
+2024 Toyota TaisorG Turbo,Toyota,Madhya Pradesh,831000,Petrol,Manual,19113,2024
+2023 Audi Q3Premium Plus BSVI,Audi,Madhya Pradesh,3800000,Petrol,Automatic,18000,2023
+2022 Tata PunchAdventure,Tata,Delhi,590000,Petrol,Manual,55000,2022
+2023 Hyundai VenueS Opt BSVI,Hyundai,Madhya Pradesh,799000,Petrol,Manual,13000,2023
+2023 Renault KWID1.0 CLIMBER AMT,Renault,Madhya Pradesh,550000,Petrol,Automatic,12048,2023
+2022 Land Rover Defender2.0 110 HSE,Land,Tamil Nadu,9800000,Petrol,Automatic,4600,2022
+2023 Maruti FRONXSigma,Maruti,Tamil Nadu,690000,Petrol,Manual,32000,2023
+2024 Maruti BrezzaLxi,Maruti,Tamil Nadu,900000,Petrol,Manual,10500,2024
+2025 Maruti FRONXDelta,Maruti,Tamil Nadu,895000,Petrol,Manual,1100,2025
+2024 Jaguar F-Pace2.0 R-Dynamic S Diesel,Jaguar,Tamil Nadu,7000000,Diesel,Automatic,30000,2024
+2023 Citroen C5 AircrossShine Dual Tone,Citroen,Tamil Nadu,849000,Diesel,Automatic,17944,2023
+2022 Maruti BalenoSigma,Maruti,Tamil Nadu,575000,Petrol,Manual,5000,2022
+2024 Land Rover Defender2.0 l Petrol 110 X-Dynamic HSE,Land,Delhi,11800000,Petrol,Automatic,7900,2024
+2024 Land Rover Defender2.0 110 HSE,Land,Delhi,8400000,Petrol,Automatic,8000,2024
+2024 BMW XMxDrive,BMW,Tamil Nadu,21000000,Petrol,Automatic,13734,2024
+2023 BMW 3 Series Long Wheelbase320Ld M Sport GL,BMW,Tamil Nadu,6500000,Diesel,Automatic,1800,2023
+2023 Hyundai ExterS AMT,Hyundai,Tamil Nadu,835000,Petrol,Automatic,12493,2023
+2022 Volkswagen Taigun1.0 TSI Topline AT BSVI,Volkswagen,Tamil Nadu,1200000,Petrol,Automatic,10000,2022
+2022 Renault KigerRXZ AMT,Renault,Tamil Nadu,599000,Petrol,Automatic,45959,2022
+2024 Kia SonetHTK Plus Diesel,Kia,Tamil Nadu,1080000,Diesel,Manual,17735,2024
+2024 Toyota TaisorG Turbo,Toyota,Tamil Nadu,831000,Petrol,Manual,19113,2024
+2023 Audi Q3Premium Plus BSVI,Audi,Tamil Nadu,3800000,Petrol,Automatic,18000,2023
+2022 Tata PunchAdventure,Tata,Delhi,590000,Petrol,Manual,55000,2022
+2023 Hyundai VenueS Opt BSVI,Hyundai,Tamil Nadu,799000,Petrol,Manual,13000,2023
+2023 Renault KWID1.0 CLIMBER AMT,Renault,Tamil Nadu,550000,Petrol,Automatic,12048,2023
+2011 Maruti Swift DzireVXi,Maruti,Haryana,150000,Petrol,Manual,20000,2011
+2024 Maruti BrezzaLxi,Maruti,Haryana,900000,Petrol,Manual,10500,2024
+2024 Kia SeltosGTX Plus Diesel AT,Kia,Haryana,1950000,Diesel,Automatic,28000,2024
+2022 Kia CarensLuxury Plus Diesel AT 6 STR BSVI,Kia,Delhi,1395000,Diesel,Automatic,25000,2022
+2024 MG HectorSharp Pro,MG,Haryana,1750000,Petrol,Manual,13500,2024
+2020 Kia SeltosHTK Diesel,Kia,Haryana,950000,Diesel,Manual,51000,2020
+2020 Hyundai Creta1.6 VTVT AT SX Plus,Hyundai,Haryana,1098000,Petrol,Automatic,28897,2020
+2021 Maruti Wagon RCNG LXI,Maruti,Haryana,525000,Cng,Manual,55795,2021
+2022 Kia SeltosHTK Plus D,Kia,Haryana,1375000,Diesel,Manual,40000,2022
+2017 Maruti ErtigaBSIV VXI,Maruti,Haryana,625000,Petrol,Manual,62000,2017
+2021 Nissan MagniteTurbo CVT XV Premium BSVI,Nissan,Haryana,696000,Petrol,Automatic,42025,2021
+2016 Hyundai Creta1.6 VTVT SX Plus,Hyundai,Haryana,599000,Petrol,Manual,43000,2016
+2017 Hyundai Creta1.6 VTVT AT SX Plus,Hyundai,Haryana,778000,Petrol,Automatic,25000,2017
+2024 Mahindra XUV 3XOAX5 AT,Mahindra,Haryana,1299000,Petrol,Automatic,15500,2024
+2023 Kia SeltosGTX Plus,Kia,Haryana,1558000,Petrol,Manual,22645,2023
+2022 Kia SonetHTX Turbo DCT,Kia,Haryana,920000,Petrol,Automatic,53729,2022
+2023 Hyundai Grand i10 NiosSportz,Hyundai,Haryana,600000,Petrol,Manual,10000,2023
+2021 Maruti Swift DzireZXI AT BSVI,Maruti,Haryana,675000,Petrol,Automatic,53351,2021
+2024 BMW X7xDrive40d M Sport,BMW,Haryana,12800000,Diesel,Automatic,8400,2024
+2024 Mahindra XUV 3XOAX5 AT,Mahindra,Haryana,1251000,Petrol,Automatic,12000,2024
+2023 Renault TriberRXE BSVI,Renault,Kerala,550000,Petrol,Manual,40000,2023
+2018 Volkswagen Ameo1.0 MPI Trendline,Volkswagen,Kerala,437000,Petrol,Manual,21155,2018
+2014 Hyundai XcentPetrol,Hyundai,Kerala,370000,Petrol,Manual,20204,2014
+2023 Honda ElevateZX,Honda,Kerala,1350000,Petrol,Manual,33580,2023
+2021 Volvo XC60Inscription D5,Volvo,Kerala,3500000,Diesel,Automatic,40000,2021
+2022 MG Hector2.0 Sharp Pro Diesel BSVI,MG,Kerala,1691000,Diesel,Manual,29536,2022
+2021 Renault KigerRXT Turbo,Renault,Kerala,671000,Petrol,Manual,15972,2021
+2016 Toyota EtiosG,Toyota,Kerala,459000,Petrol,Manual,20474,2016
+2013 Mahindra XUV500W8 2WD,Mahindra,Kerala,250000,Diesel,Manual,100000,2013
+2024 Honda AmazeZX CVT,Honda,Kerala,1075000,Petrol,Automatic,8867,2024
+2012 Hyundai i10Magna,Hyundai,Kerala,184000,Petrol,Manual,115132,2012
+2020 Kia SeltosGTX Plus DCT,Kia,Kerala,1276000,Petrol,Automatic,73030,2020
+2016 Honda CitySV MT,Honda,Kerala,619000,Petrol,Manual,73017,2016
+2015 Hyundai EOND Lite,Hyundai,Kerala,212000,Petrol,Manual,27144,2015
+2016 Renault KWIDRXT,Renault,Kerala,270000,Petrol,Manual,41494,2016
+2023 Tata NexonXMA AMT S,Tata,Kerala,881000,Petrol,Automatic,14566,2023
+2022 Maruti IgnisDelta,Maruti,Kerala,560000,Petrol,Manual,23369,2022
+2015 Honda AmazeS Petrol,Honda,Kerala,220000,Petrol,Manual,137701,2015
+2016 Renault KWIDRXT,Renault,Kerala,261000,Petrol,Manual,70913,2016
+2015 Honda AmazeS Petrol,Honda,Kerala,380000,Petrol,Manual,75771,2015
+2024 BMW i5M60 xDrive,BMW,Delhi,9200000,Electric,Automatic,4017,2024
+2024 Land Rover Defender2.0 110 HSE,Land,Delhi,8400000,Petrol,Automatic,8000,2024
+2024 Land Rover Defender2.0 l Petrol 110 X-Dynamic HSE,Land,Delhi,11800000,Petrol,Automatic,7900,2024
+2022 Tata PunchAdventure,Tata,Delhi,590000,Petrol,Manual,55000,2022
+2023 Kia CarensLuxury Plus Turbo DCT 2022-2023,Kia,Delhi,1800000,Petrol,Automatic,20000,2023
+2019 Renault KWIDRXL,Renault,Delhi,265000,Petrol,Manual,34000,2019
+2018 Maruti SwiftVXI 2018,Maruti,Delhi,480000,Petrol,Manual,48000,2018
+2023 Toyota Fortuner4X2 Diesel AT,Toyota,Delhi,3980000,Diesel,Automatic,13000,2023
+2025 Hyundai CretaS,Hyundai,Delhi,1570000,Petrol,Manual,3900,2025
+2024 Audi Q3Premium Plus,Audi,Delhi,3500000,Petrol,Automatic,10000,2024
+2022 Kia CarensLuxury Plus Diesel AT 6 STR BSVI,Kia,Delhi,1395000,Diesel,Automatic,25000,2022
+2020 Kia SeltosHTK Diesel,Kia,Delhi,950000,Diesel,Manual,51000,2020
+2022 Kia SeltosHTK Plus iMT,Kia,Delhi,1077000,Petrol,Manual,17357,2022
+2011 Maruti Swift DzireVXi,Maruti,Delhi,150000,Petrol,Manual,20000,2011
+2019 Hyundai Creta1.6 E Plus,Hyundai,Delhi,651000,Petrol,Manual,43592,2019
+2020 Hyundai Creta1.6 VTVT AT SX Plus,Hyundai,Delhi,1098000,Petrol,Automatic,28897,2020
+2022 Hyundai Grand i10 NiosAMT Sportz CRDi,Hyundai,Delhi,628000,Diesel,Automatic,54107,2022
+2024 MG HectorSharp Pro,MG,Delhi,1750000,Petrol,Manual,13500,2024
+2021 MG HectorSuper MT,MG,Delhi,1195000,Petrol,Manual,16000,2021
+2021 Hyundai VenueS,Hyundai,Delhi,615000,Petrol,Manual,29018,2021
+2022 Jeep Compass2.0 Limited Opt Diesel BSVI,Jeep,Bihar,1400000,Diesel,Manual,90000,2022
+2016 Maruti Wagon RVXI BS IV,Maruti,Bihar,291000,Petrol,Manual,33910,2016
+2020 Mahindra XUV500W11 FWD Diesel,Mahindra,Bihar,1150000,Diesel,Manual,63000,2020
+2020 Toyota Innova Crysta2.4 G MT,Toyota,Bihar,1600000,Diesel,Manual,70000,2020
+2022 Mahindra TharLX 4WD Hard Top Diesel BSVI,Mahindra,Bihar,1351000,Diesel,Manual,40000,2022
+2020 Tata TiagoXT BSVI,Tata,Bihar,600000,Petrol,Manual,22620,2020
+2019 Mahindra ScorpioS3 7 Seater,Mahindra,Bihar,1150000,Diesel,Manual,65435,2019
+2023 Mahindra ScorpioS,Mahindra,Bihar,1460000,Diesel,Manual,55408,2023
+2023 Tata Tiago EVXT LR,Tata,Bihar,825000,Electric,Automatic,90000,2023
+2023 Maruti Grand VitaraZeta CNG,Maruti,Bihar,1350000,Cng,Manual,71255,2023
+2021 Mahindra ScorpioS5,Mahindra,Bihar,1351000,Diesel,Manual,47000,2021
+2022 Hyundai i20 N-LineN6 iMT BSVI,Hyundai,Bihar,840000,Petrol,Manual,8824,2022
+2023 MG AstorSmart MT,MG,Bihar,1290000,Petrol,Manual,29306,2023
+2022 Tata NexonXM BSVI,Tata,Bihar,765000,Petrol,Manual,17925,2022
+2022 Hyundai Grand i10 NiosMagna,Hyundai,Bihar,565000,Petrol,Manual,29824,2022
+2014 Mahindra BoleroZLX,Mahindra,Bihar,525000,Diesel,Manual,53000,2014
+2019 Mahindra ScorpioS3 7 Seater,Mahindra,Bihar,1125000,Diesel,Manual,43000,2019
+2021 Mahindra ScorpioS5,Mahindra,Bihar,1351000,Diesel,Manual,47000,2021
+2020 Mahindra ScorpioS5,Mahindra,Bihar,1275000,Diesel,Manual,41000,2020
+2017 Mahindra ScorpioS2 7 Seater,Mahindra,Bihar,950000,Diesel,Manual,52000,2017
+2019 Tata NanoXM,Tata,Jharkhand,190000,Petrol,Manual,30000,2019
+2015 Honda Cityi VTEC CVT VX,Honda,Jharkhand,550000,Petrol,Automatic,88650,2015
+2016 Maruti CiazZDi,Maruti,Jharkhand,550000,Diesel,Manual,96000,2016
+2017 Maruti BalenoDelta Diesel,Maruti,Jharkhand,515000,Diesel,Manual,52000,2017
+2014 Tata ZestQuadrajet 1.3 XMS,Tata,Jharkhand,290000,Diesel,Manual,100000,2014
+2024 Honda ElevateVX,Honda,Jharkhand,1550000,Petrol,Manual,1001,2024
+2021 Maruti IgnisSigma BSVI,Maruti,Jharkhand,425000,Petrol,Manual,46214,2021
+2017 Honda Jazz1.2 VX i VTEC,Honda,Jharkhand,400000,Petrol,Manual,52144,2017
+2006 Hyundai ElantraCRDi,Hyundai,Jharkhand,150000,Diesel,Manual,160000,2006
+2018 Maruti Swift DzireVXI BSVI,Maruti,Jharkhand,560000,Petrol,Manual,41959,2018
+2012 Maruti Swift DzireVDI,Maruti,Jharkhand,290000,Diesel,Manual,113000,2012
+2022 Hyundai TucsonSignature Diesel AT BSVI,Hyundai,Jharkhand,2500000,Diesel,Automatic,36250,2022
+2023 Tata SafariXZA AT BSVI,Tata,Jharkhand,1800000,Diesel,Automatic,80000,2023
+2013 Volkswagen CrossPolo1.2 TDI,Volkswagen,Jharkhand,320000,Diesel,Manual,72000,2013
+2015 Hyundai i20Sportz Option 1.4 CRDi,Hyundai,Jharkhand,345000,Diesel,Manual,157569,2015
+2016 Maruti Wagon RAMT VXI,Maruti,Jharkhand,285000,Petrol,Automatic,74351,2016
+2018 Ford FreestyleTrend Diesel BSIV,Ford,Jharkhand,350000,Diesel,Manual,70000,2018
+2024 Tata NexonPure,Tata,Jharkhand,966000,Petrol,Manual,10000,2024
+2003 Maruti Wagon RLX,Maruti,Jharkhand,0,Petrol,Manual,30000,2003
+2016 Hyundai Grand i10Era,Hyundai,Jharkhand,350000,Petrol,Manual,80000,2016
+2018 Maruti BalenoAlpha,Maruti,Chhattisgarh,475000,Petrol,Manual,107452,2018
+2017 Maruti Swift DzireAMT ZXI,Maruti,Chhattisgarh,499000,Petrol,Automatic,58458,2017
+2012 Chevrolet CruzeLTZ,Chevrolet,Chhattisgarh,140000,Diesel,Manual,80000,2012
+2006 Maruti Alto 800LX BSIII,Maruti,Chhattisgarh,0,Petrol,Manual,90000,2006
+2024 Renault TriberRXL,Renault,Chhattisgarh,660000,Petrol,Manual,20000,2024
+2024 MG Comet EVExecutive,MG,Chhattisgarh,681000,Electric,Automatic,10000,2024
+2016 Fiat Linea1.3 Multijet Active,Fiat,Chhattisgarh,225000,Diesel,Manual,120000,2016
+2008 Mahindra Renault Logan1.4 GLX,Mahindra,Chhattisgarh,0,Petrol,Manual,70000,2008
+2022 Jeep Compass2.0 Anniversary Edition 2021-2022,Jeep,Chhattisgarh,2300000,Diesel,Manual,30000,2022
+2023 Hyundai Grand i10 NiosSportz,Hyundai,Chhattisgarh,610000,Petrol,Manual,10000,2023
+2021 Maruti BalenoZeta,Maruti,Chhattisgarh,600000,Petrol,Manual,60000,2021
+2018 Tata HexaXT,Tata,Chhattisgarh,800000,Diesel,Manual,120000,2018
+2015 Maruti CiazVXi Plus,Maruti,Chhattisgarh,400000,Petrol,Manual,80000,2015
+2019 Hyundai Creta1.4 E Plus,Hyundai,Chhattisgarh,750000,Diesel,Manual,70000,2019
+2016 Maruti SwiftVXI,Maruti,Chhattisgarh,375000,Petrol,Manual,90000,2016
+2016 Hyundai Creta1.6 CRDi SX Option,Hyundai,Chhattisgarh,700000,Diesel,Manual,120000,2016
+2019 Kia SeltosGTX Plus,Kia,Chhattisgarh,1400000,Petrol,Manual,60000,2019
+2017 Hyundai Xcent1.2 Kappa SX,Hyundai,Chhattisgarh,350000,Petrol,Manual,30000,2017
+2013 Tata Safari StormeEX,Tata,Chhattisgarh,380000,Diesel,Manual,90000,2013
+2019 Hyundai Creta1.6 VTVT SX Plus,Hyundai,Chhattisgarh,1000000,Petrol,Manual,20000,2019
+2023 MG Hector Plus1.5 Turbo Savvy Pro CVT 7 Str BSVI,MG,Odisha,2200000,Petrol,Automatic,40000,2023
+2019 Hyundai i20Petrol Asta Option,Hyundai,Odisha,585000,Petrol,Manual,26000,2019
+2021 Mahindra ScorpioS3 Plus,Mahindra,Odisha,990000,Diesel,Manual,65000,2021
+2022 Maruti CiazZeta BSVI,Maruti,Odisha,850000,Petrol,Manual,16000,2022
+2022 Maruti Eeco5 Seater AC 2020-2022,Maruti,Odisha,460000,Petrol,Manual,59000,2022
+2020 Honda WR-VSV,Honda,Odisha,585000,Petrol,Manual,85000,2020
+2022 Maruti Swift Dzire TourS,Maruti,Odisha,540000,Petrol,Manual,54000,2022
+2023 Maruti ErtigaVXI,Maruti,Odisha,995000,Petrol,Manual,42721,2023
+2017 Honda Cityi VTEC E,Honda,Odisha,775000,Petrol,Manual,34091,2017
+2019 Maruti SwiftVXI,Maruti,Odisha,550000,Petrol,Manual,65000,2019
+2019 Hyundai i20Petrol Asta Option,Hyundai,Odisha,580000,Petrol,Manual,56414,2019
+2020 Hyundai CretaSX Opt Turbo BSVI,Hyundai,Odisha,1280000,Petrol,Automatic,38000,2020
+2012 Audi Q52.0 TDI,Audi,Odisha,1000000,Diesel,Automatic,120000,2012
+2014 Audi Q52.0 TDI,Audi,Odisha,1280000,Diesel,Automatic,100000,2014
+2021 Maruti S-PressoVXI Plus 2019-2022,Maruti,Odisha,485000,Petrol,Manual,40523,2021
+2020 Hyundai VenueS Diesel BSIV,Hyundai,Odisha,690000,Diesel,Manual,58000,2020
+2013 Hyundai i10Sportz,Hyundai,Odisha,235000,Petrol,Manual,39792,2013
+2017 Hyundai EONEra Plus,Hyundai,Odisha,265000,Petrol,Manual,23028,2017
+2021 Mahindra TharLX 4WD Hard Top Diesel BSVI,Mahindra,Odisha,1300000,Diesel,Manual,53000,2021
+2017 Hyundai EONEra Plus,Hyundai,Odisha,285000,Petrol,Manual,20431,2017
+2022 Land Rover Defender2.0 110 HSE,Land,West Bengal,9800000,Petrol,Automatic,4600,2022
+2023 Maruti FRONXSigma,Maruti,West Bengal,690000,Petrol,Manual,32000,2023
+2024 Maruti BrezzaLxi,Maruti,West Bengal,900000,Petrol,Manual,10500,2024
+2025 Maruti FRONXDelta,Maruti,West Bengal,895000,Petrol,Manual,1100,2025
+2024 Jaguar F-Pace2.0 R-Dynamic S Diesel,Jaguar,West Bengal,7000000,Diesel,Automatic,30000,2024
+2023 Citroen C5 AircrossShine Dual Tone,Citroen,West Bengal,849000,Diesel,Automatic,17944,2023
+2022 Maruti BalenoSigma,Maruti,West Bengal,575000,Petrol,Manual,5000,2022
+2024 Land Rover Defender2.0 l Petrol 110 X-Dynamic HSE,Land,Delhi,11800000,Petrol,Automatic,7900,2024
+2024 Land Rover Defender2.0 110 HSE,Land,Delhi,8400000,Petrol,Automatic,8000,2024
+2024 BMW XMxDrive,BMW,West Bengal,21000000,Petrol,Automatic,13734,2024
+2023 BMW 3 Series Long Wheelbase320Ld M Sport GL,BMW,West Bengal,6500000,Diesel,Automatic,1800,2023
+2023 Hyundai ExterS AMT,Hyundai,West Bengal,835000,Petrol,Automatic,12493,2023
+2022 Volkswagen Taigun1.0 TSI Topline AT BSVI,Volkswagen,West Bengal,1200000,Petrol,Automatic,10000,2022
+2022 Renault KigerRXZ AMT,Renault,West Bengal,599000,Petrol,Automatic,45959,2022
+2024 Kia SonetHTK Plus Diesel,Kia,West Bengal,1080000,Diesel,Manual,17735,2024
+2024 Toyota TaisorG Turbo,Toyota,West Bengal,831000,Petrol,Manual,19113,2024
+2023 Audi Q3Premium Plus BSVI,Audi,West Bengal,3800000,Petrol,Automatic,18000,2023
+2022 Tata PunchAdventure,Tata,Delhi,590000,Petrol,Manual,55000,2022
+2023 Hyundai VenueS Opt BSVI,Hyundai,West Bengal,799000,Petrol,Manual,13000,2023
+2023 Renault KWID1.0 CLIMBER AMT,Renault,West Bengal,550000,Petrol,Automatic,12048,2023
