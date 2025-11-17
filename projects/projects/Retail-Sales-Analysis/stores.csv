@@ -1,0 +1,62 @@
+store_id,store_name,store_type,region,city,operating_cost
+S000,Vincent Inc Store,Franchise,West,Chicago,62538.56
+S001,Wilson Inc Store,Flagship,East,Chicago,26957.43
+S002,Washington-Trujillo Store,Franchise,North,Los Angeles,66101.63
+S003,Santana and Sons Store,Franchise,South,Phoenix,71089.4
+S004,Oconnor-Rhodes Store,Franchise,East,Los Angeles,40965.26
+S005,Mayer-Scott Store,Flagship,North,Houston,14898.94
+S006,"Stewart, Lowe and Quinn Store",Flagship,North,Los Angeles,75679.22
+S007,Marshall PLC Store,Flagship,North,Los Angeles,51484.15
+S008,Mcdaniel-Bennett Store,Flagship,South,Phoenix,15471.52
+S009,"Rasmussen, Meyers and Mendoza Store",Franchise,West,Chicago,21491.12
+S010,Bennett-Salazar Store,Flagship,South,Houston,22350.49
+S011,Dunlap-Thornton Store,Flagship,East,Chicago,50349.53
+S012,Rodriguez-Taylor Store,Franchise,South,Chicago,70369.79
+S013,Ortiz-Smith Store,Mall Kiosk,North,Chicago,37877.11
+S014,Jones-Harris Store,Flagship,West,Houston,39588.81
+S015,"Gibson, Smith and Simpson Store",Franchise,West,Los Angeles,67372.27
+S016,Berg-Hall Store,Mall Kiosk,North,Houston,39917.81
+S017,Robinson PLC Store,Flagship,East,Phoenix,47603.84
+S018,Woods Ltd Store,Franchise,South,Chicago,36631.52
+S019,Alvarado-Jackson Store,Mall Kiosk,West,Chicago,36260.28
+S020,"Griffin, Walker and Medina Store",Franchise,West,New York,33326.39
+S021,Wyatt PLC Store,Franchise,West,Los Angeles,20830.71
+S022,"Smith, Johnson and Le Store",Flagship,North,New York,70315.86
+S023,"Lee, Jones and Galloway Store",Franchise,East,Houston,38318.87
+S024,"Brown, Garza and Robinson Store",Mall Kiosk,West,Chicago,36882.62
+S025,Jackson-Olson Store,Mall Kiosk,North,Houston,71949.97
+S026,Atkinson-Salinas Store,Flagship,West,Phoenix,21365.37
+S027,King-Williams Store,Mall Kiosk,East,Chicago,45672.59
+S028,Keller Ltd Store,Mall Kiosk,East,New York,55563.44
+S029,"Lester, Walker and Snyder Store",Mall Kiosk,South,Los Angeles,43440.79
+S030,"Armstrong, Anthony and Richmond Store",Mall Kiosk,North,Los Angeles,28293.15
+S031,Thomas Group Store,Mall Kiosk,South,Chicago,27319.04
+S032,Martin-Hernandez Store,Franchise,South,New York,18171.15
+S033,Lee-Smith Store,Flagship,West,Houston,59424.88
+S034,Smith-Parker Store,Flagship,South,Houston,21607.65
+S035,Whitaker LLC Store,Mall Kiosk,East,Chicago,45045.28
+S036,Blankenship-Brown Store,Franchise,West,Phoenix,31558.52
+S037,"Johnson, Hopkins and Armstrong Store",Mall Kiosk,North,New York,54532.62
+S038,"Brown, Wallace and Martin Store",Mall Kiosk,South,Chicago,62411.11
+S039,Chan-Buchanan Store,Franchise,West,Chicago,10449.42
+S040,Adkins-Escobar Store,Flagship,West,New York,16780.95
+S041,"Campbell, Brown and Flynn Store",Franchise,West,Phoenix,39178.96
+S042,Miller-Douglas Store,Mall Kiosk,West,Los Angeles,22348.09
+S043,Tyler Group Store,Flagship,South,Los Angeles,44052.99
+S044,Martin Ltd Store,Franchise,North,Houston,49696.45
+S045,"Mcguire, Powers and Lang Store",Flagship,South,Los Angeles,14128.74
+S046,Castillo and Sons Store,Flagship,South,Chicago,78806.3
+S047,Hudson Group Store,Mall Kiosk,West,Phoenix,17643.68
+S048,"Phillips, Chavez and Medina Store",Franchise,South,New York,30518.79
+S049,"Aguirre, Smith and Leonard Store",Mall Kiosk,North,Chicago,14498.37
+S050,"King, Evans and Miller Store",Flagship,South,Houston,43963.6
+S051,Anderson-Norman Store,Flagship,North,New York,28625.65
+S052,Hill Inc Store,Flagship,North,New York,24774.79
+S053,"Taylor, David and Williams Store",Flagship,West,Phoenix,46405.19
+S054,Johnson Inc Store,Mall Kiosk,West,Houston,62983.81
+S055,"Harrington, Blackburn and Soto Store",Franchise,West,Chicago,35954.96
+S056,"Johnson, Sims and Miles Store",Mall Kiosk,East,Los Angeles,75869.37
+S057,"Crawford, Spencer and Lopez Store",Franchise,West,Houston,52756.63
+S058,Hubbard-Thomas Store,Mall Kiosk,East,New York,10215.93
+S059,"Foster, Gutierrez and Li Store",Franchise,West,Los Angeles,11797.63
+S017,Robinson PLC Store,Flagship,East,Phoenix,47603.84
